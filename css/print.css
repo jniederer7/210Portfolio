@@ -1,0 +1,25 @@
+.main-navbar {
+	display:none;
+}
+
+.heading-container {
+	min-height: 150px;
+}
+
+ h3, .header-text {
+	padding:0;
+	margin:0;
+	font-weight: bold;
+	color:black;
+ }
+
+ .bio-text {
+ 	font-size: 16pt !important;
+ }
+ a {
+ 	display:none;
+ }
+
+ .print-break {
+ 	page-break-after: always;
+ }
